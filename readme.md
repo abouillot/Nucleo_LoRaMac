@@ -1,3 +1,8 @@
+This repository host a LoRaWAN project for Nucleo L152RE board coupled with HopeRF RFM95 module. It uses Keil µVision V5 IDE.
+The various peripherals present on Sensor Node HW have been removed, as not present.
+
+The stripped down version of the code is bellow the 32k limit of Keil µVision Lite license limitation.
+
      / _____)             _              | |
     ( (____  _____ ____ _| |_ _____  ____| |__
      \____ \| ___ |    (_   _) ___ |/ ___)  _ \
